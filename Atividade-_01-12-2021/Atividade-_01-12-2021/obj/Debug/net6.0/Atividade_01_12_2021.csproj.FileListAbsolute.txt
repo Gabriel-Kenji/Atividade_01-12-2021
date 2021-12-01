@@ -1,0 +1,16 @@
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\bin\Debug\net6.0\Atividade_01_12_2021.exe
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\bin\Debug\net6.0\Atividade_01_12_2021.deps.json
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\bin\Debug\net6.0\Atividade_01_12_2021.runtimeconfig.json
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\bin\Debug\net6.0\Atividade_01_12_2021.dll
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\bin\Debug\net6.0\ref\Atividade_01_12_2021.dll
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\bin\Debug\net6.0\Atividade_01_12_2021.pdb
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.GlobalUsings.g.cs
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.csproj.AssemblyReference.cache
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.AssemblyInfoInputs.cache
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.AssemblyInfo.cs
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.dll
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\ref\Atividade_01_12_2021.dll
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.pdb
+C:\Users\gabriel.utiyama\Desktop\Facul\ED\Nova pasta\Atividade-_01-12-2021\Atividade-_01-12-2021\obj\Debug\net6.0\Atividade_01_12_2021.genruntimeconfig.cache
